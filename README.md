@@ -1,4 +1,4 @@
-# Simon-Microcontroller-Circuit-Game
+# 2018 Simon-Microcontroller-Circuit-Game
 Simon game made with the PIC32 microcontroller programmed in C and wired with a breadboard
 
 ![](images/preview.gif)
